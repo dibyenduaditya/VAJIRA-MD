@@ -11,7 +11,7 @@ const FOOTERNAME = '🌈🥵দুদুপ্রেমী♡⁠‿⁠♡🍼�
 global.owner = process.env.OWNER_NUMBER  || '916294147874' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=LdkkhSiK#P7phmAWBdxdWIxVruxQIXH7KfrQSGF_Ja6--o3A5ZXU' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=mRUQVaJK#Kh-HI9om3uOJRSf9qvWFAReXfuQ94kbQsrn5GJFWAJY' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "916294147874" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
